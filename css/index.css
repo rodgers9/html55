@@ -12,4 +12,40 @@ body {
     
 header {
     background-image: url("23.jpg");
+    background-position: center center;
+    background-size:cover; 
+    height: 400px;
+    display: flex;
+    align-items:;
+    justify-content:center;
+    padding-left: 5 %
     }
+    
+section {
+    background-image: url("25.jpg");
+    background-position: center center;
+    background-size:cover; 
+    height: 300px;
+    }
+    
+    article {
+    background-image: url("24.jpg");
+    background-position: center center;
+    background-size:cover; 
+    height: 300px;
+   
+    }
+    
+    footer {
+    background-image: url("4.jpeg");
+    background-position: center center;
+    background-size:cover; 
+    height: 300px;
+    display: flex;
+    align-items:center;
+    justify-content: flex-start;
+    padding-left:5%;
+    }
+    
+    
+    
